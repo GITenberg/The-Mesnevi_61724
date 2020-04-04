@@ -1,16 +1,21 @@
 _repo: The-Mesnevi_61724
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Redhouse, James William
     gutenberg_agent_id: '51585'
     url: http://www.gutenberg.org/2009/agents/51585
+covers:
+- cover_type: archival
+  image_path: 61724-h/images/cover.jpg
 creator:
   author:
     agent_name: Rumi, Jalal al-Din
     gutenberg_agent_id: '51584'
     url: http://www.gutenberg.org/2009/agents/51584
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61724#The-Mesnevi
 gutenberg_issued: '2020-03-31'
 gutenberg_type: Text
 identifiers:
